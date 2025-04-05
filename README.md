@@ -102,873 +102,1209 @@ Lakimies Mikkeli rikosasianajaja oikeusavustaja asianajaja lakiasiaintoimisto Su
 rikosasianajaja lakimies lakitoimisto juridinen avustaja Mikkeli rikosasianajotoimisto rikosoikeus rikosasiat oikeudellinen neuvonta oikeusavustaja lakipalvelut juristit rikoslainsäädäntö Suomi oikeuspalvelut laki syytön puolustus oikeudenkäynti
 </span> 
 
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
-<div style="margin-top: 5000px;"></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 Mikkeli, idyllinen kaupunki Etelä-Savossa, on tunnettu paitsi kauniista järvimaisemistaan myös monipuolisista palveluistaan, joihin kuuluu myös juridinen osaaminen. Kun puhutaan lakipalveluista, Lakimies Mikkeli nousee usein esiin hakuterminä tai keskustelunaiheena, kun paikalliset asukkaat tai yritykset etsivät apua oikeudellisiin kysymyksiin. Lakimiehen rooli on yhteiskunnassa korvaamaton, sillä hän auttaa selkeyttämään monimutkaisia lakipykäliä, laatimaan sopimuksia ja edustamaan asiakkaita oikeudessa. Mikkelissä toimiva lakimies voi palvella niin yksityishenkilöitä kuin yrityksiäkin, ja hänen osaamisensa kattaa usein laajan kirjon erilaisia oikeudenaloja.
